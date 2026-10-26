@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" width="300" height="420">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141124" />
+      <stop offset="100%" stop-color="#05030a" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="420" fill="url(#bg)" rx="8" />
+  <circle cx="150" cy="160" r="60" fill="#312252" opacity="0.7" />
+  <polygon points="150,110 170,180 150,165 130,180" fill="#a78bfa" />
+  <text x="150" y="270" text-anchor="middle" fill="#ede9fe" font-family="system-ui, sans-serif" font-size="18" font-weight="700">Shadow Sovereign</text>
+  <text x="150" y="295" text-anchor="middle" fill="#c4b5fd" font-family="system-ui, sans-serif" font-size="12" letter-spacing="1">MOCK DEMO</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" width="300" height="420">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#312e81" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="420" fill="url(#bg)" rx="8" />
+  <circle cx="150" cy="160" r="55" fill="#4338ca" opacity="0.6" />
+  <circle cx="150" cy="160" r="40" fill="#e0e7ff" opacity="0.9" />
+  <path d="M140 145 C145 130 155 130 160 145 C160 165 140 180 140 180" fill="none" stroke="#4f46e5" stroke-width="3" />
+  <text x="150" y="270" text-anchor="middle" fill="#e0e7ff" font-family="system-ui, sans-serif" font-size="18" font-weight="700">Journey's End</text>
+  <text x="150" y="295" text-anchor="middle" fill="#c7d2fe" font-family="system-ui, sans-serif" font-size="12" letter-spacing="1">MOCK DEMO</text>
+</svg>

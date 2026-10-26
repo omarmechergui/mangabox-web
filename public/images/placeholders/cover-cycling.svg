@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" width="300" height="420">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+  </defs>
+  <rect width="300" height="420" fill="url(#bg)" rx="8" />
+  <circle cx="150" cy="160" r="50" fill="none" stroke="#60a5fa" stroke-width="8" opacity="0.8" />
+  <line x1="150" y1="160" x2="190" y2="130" stroke="#93c5fd" stroke-width="4" />
+  <line x1="150" y1="160" x2="110" y2="190" stroke="#93c5fd" stroke-width="4" />
+  <text x="150" y="270" text-anchor="middle" fill="#eff6ff" font-family="system-ui, sans-serif" font-size="18" font-weight="700">Velocity: Urban</text>
+  <text x="150" y="295" text-anchor="middle" fill="#bfdbfe" font-family="system-ui, sans-serif" font-size="12" letter-spacing="1">MOCK DEMO</text>
+</svg>

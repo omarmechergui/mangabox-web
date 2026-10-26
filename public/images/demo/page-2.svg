@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" width="800" height="1200">
+  <defs>
+    <linearGradient id="pagebg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1e24" />
+      <stop offset="100%" stop-color="#141418" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1200" fill="url(#pagebg)" />
+  <rect x="40" y="40" width="720" height="1120" fill="none" stroke="#2e3038" stroke-width="2" rx="4" />
+  
+  <!-- Panel 1 -->
+  <rect x="60" y="60" width="680" height="700" fill="#24262e" rx="4" />
+  <text x="400" y="400" text-anchor="middle" fill="#7474eb" font-family="system-ui, sans-serif" font-size="28" font-weight="700">MangaBox Web — Page 2</text>
+  <text x="400" y="440" text-anchor="middle" fill="#9da1aa" font-family="system-ui, sans-serif" font-size="16">Panel 1: The journey begins along the eastern pass.</text>
+  
+  <!-- Panel 2 -->
+  <rect x="60" y="780" width="680" height="360" fill="#24262e" rx="4" />
+  <text x="400" y="960" text-anchor="middle" fill="#9da1aa" font-family="system-ui, sans-serif" font-size="16">Panel 2: End of demo sample.</text>
+  
+  <text x="400" y="1170" text-anchor="middle" fill="#686b70" font-family="monospace" font-size="12">MOCK FIXTURE PAGE 2</text>
+</svg>
